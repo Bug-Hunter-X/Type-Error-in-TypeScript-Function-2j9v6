@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript and its solution. The `bug.ts` file contains the erroneous code, while `bugSolution.ts` provides the corrected version.  The error arises from type mismatch in function arguments.
